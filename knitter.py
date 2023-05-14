@@ -27,7 +27,7 @@
 print ("""
      
      Knitter is a tool for amassivus suite for managing application installations
-     Knitter is not a package manager but a script suite which lets us to easily manage installations, and scale up our installations 
+     Knitter is a package manager which lets us to easily manage installations, and scale up our installations 
      Knitter runs as a server and provided services to network users so we have choosen AGPLv3 or any later license fot that purpose
      Enjoy it! Happy hacking!
 
@@ -46,7 +46,4 @@ print ("""
      You should have received a copy of the GNU Affero General Public License
      along with this program.  If not, see <https://www.gnu.org/licenses/>.
  
-     For general questions please send an e-mail to core at masscollabs dot com
-     For technical support please send an e-mail to support at masscollabs dot com
-     For security issues and bug reports please send an e-mail to security at masscollabs dot com
 """)
