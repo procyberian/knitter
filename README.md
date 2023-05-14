@@ -26,7 +26,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 # Knitter
 
 * Knitter is a tool for amassivus suite to manage application installations
-* Knitter is not a package manager but a script suite which lets us to easily manage installations, and scale up our installations 
+* Knitter is a package manager which lets us to easily manage installations, and scale up our installations 
 * Knitter runs as a server and provided services to network users so we have choosen AGPLv3 or any later license fot that purpose
 * Enjoy it! Happy hacking!
 
