@@ -1,4 +1,4 @@
-Copyright (C)  2020,2021  Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers
+Copyright (C)  2020-2023  Masscollabs Services
 	
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3
@@ -13,15 +13,14 @@ Free Documentation License".
 
 * [Masscollabs Services](https://github.com/masscollabs)
 * [Masscollaboration Labs](https://github.com/masscollaborationlabs)
-* [hwpplayers](https://github.com/hwpplayers)
-* [procyberian or in other words procyberian-linux](https://github.com/procyberian-linux) 
+* [procyberian](https://github.com/procyberian) 
 * [amassivus](https://www.github.com/amassivus)
 
 ## What we expect from contributors
 
 ### Documentation
 
-* Please follow Awesome format for your own documentation that you will suggest to [Masscollabs Services](https://github.com/masscollabs), [Masscollaboration Labs](https://github.com/masscollaborationlabs), [hwpplayers](https://github.com/hwpplayers), and [procyberian or in other words procyberian-linux](https://github.com/procyberian-linux), and [amassivus](https://www.github.com/amassivus) organizations
+* Please follow Awesome format for your own documentation that you will suggest to [Masscollabs Services](https://github.com/masscollabs), [Mass Collaboration Labs](https://github.com/masscollaborationlabs), [procyberian](https://github.com/procyberian), and [amassivus](https://www.github.com/amassivus) organizations
 
 ### Code
 
