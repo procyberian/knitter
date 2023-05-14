@@ -1,3 +1,5 @@
+# License
+
 Copyright (C) 2020-2023 Masscollabs Services
 
 Permission is granted to copy, distribute and/or modify this document
