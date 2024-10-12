@@ -7,7 +7,7 @@
 
 ## Document License
 
-Knitter package manager document
+Knitter package manager for distributed and centralized cloud operations
 
 Copyright (C) 2024-2025 QB Networks
 
