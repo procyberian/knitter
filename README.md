@@ -1,6 +1,10 @@
 # knitter 
 
+![knitter](img/starwolf.png)
+
 Package manager for The PSD
+
+Explore, Challenge, Lead !...
 
 # License
 
