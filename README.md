@@ -6,7 +6,7 @@ Package manager for The PSD
 
 Package manager for The PSD
 
-Copyright (C) 2025 PSD Authors
+Copyright (C) 2025-2026 PSD Authors
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
