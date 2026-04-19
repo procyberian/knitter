@@ -2,6 +2,10 @@
 
 Package manager for The PSD
 
+- remote installation
+- local source code archive builder - installation
+- cluster management for building and installing packages
+
 # License
 
 Package manager for The PSD
