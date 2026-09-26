@@ -6,11 +6,25 @@ Package manager for The PSD
 - local source code archive builder - installation
 - cluster management for building and installing packages
 
-# License
+## Forge platforms
 
-Package manager for The PSD
+* https://github.com/procyberian/knitter
 
-Copyright (C) 2025-2026 PSD Authors
+* https://gitlab.com/masscollabs/procyberian/knitter
+ 
+* https://git.sr.ht/~mertgor/knitter
+
+* https://git.disroot.org/PSD/knitter
+
+* https://codeberg.org/PSD/knitter
+
+* https://source.masscollabs.xyz/PSD/knitter
+
+## License
+
+Package manager of The PSD
+
+Copyright (C) 2025-2027 PSD Authors
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
